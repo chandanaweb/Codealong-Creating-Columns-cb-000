@@ -113,3 +113,8 @@ section{
   height: 0;
   line-height: 0;
 }
+*{
+  -webkit-box-sizing: border-box;
+  -moz--box-sizing: border-box;
+  box-sizing: border-box;
+}
